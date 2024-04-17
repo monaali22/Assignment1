@@ -1,0 +1,216 @@
+<resources>
+    <string name="app_name">Ass1</string>
+    <string name="titel">Welcome to chemistry</string>
+    <string name="titelimage">TODO</string>
+    <string name="tabletext">Periodic Table of the Elements</string>
+    <string name="tableimage">TODO</string>
+    <string name="chemical_equations">Chemical equations</string>
+    <string name="returnequationpage">TODO</string>
+    <string name="eq1">1: Equation for the combustion of methane gas</string>
+    <string name="eq1image">TODO</string>
+    <string name="chemical_equationsTitel">Stoichiometric Equations for Combustion Reactions</string>
+    <string name="eqtitile1">1: Equation for the combustion of methane gas</string>
+    <string name="todoequation1">TODO</string>
+    <string name="equation2Titel">2: Equation for the reaction of hydrochloric acid with sodium</string>
+    <string name="backEQ">TODO</string>
+    <string name="EQ2">TODO</string>
+    <string name="methane_gas_combustion">Methane gas combustion</string>
+    <string name="reaction">Reaction :</string>
+    <string name="eqInfo">when methane gas burns, it combines with oxygen to produce carbon dioxide and water vapor as products.</string>
+    <string name="Equationone">CH4 ​ +2 O2 ​ ----> CO2 ​ +2 H2O</string>
+    <string name="balanced_equation">Balanced Equation :</string>
+    <string name="sketches_representing_molecules">Sketches representing molecules :</string>
+    <string name="ttt">TODO</string>
+    <string name="ch4image">TODO</string>
+    <string name="meaning">Meaning :</string>
+    <string name="molEQ1">1 molecule of CH4 + 2 molecules of O2 --->  1 molecule of CO2​ + 2 molecules of H2O</string>
+    <string name="EQ2Titel">Combustion of propane</string>
+    <string name="reaction2">Reaction :</string>
+    <string name="eq2Info">Propane combines with oxygen to form carbon dioxide and water vapor, releasing energy.</string>
+    <string name="todoEq2">TODO</string>
+    <string name="balanced_equation2">Balanced Equation :</string>
+    <string name="EQ02">C3H8 ​ + 5O2 ​ ---> 3CO2 ​ + 4H2O</string>
+    <string name="sketches_represention_molecules">Sketches represention molecules</string>
+    <string name="meaningEQ2">Meaning :</string>
+    <string name="MolEQ2">1 molecule of C3H8 ​ + 5 molecules of O2 ​ ---> 3 molecules of CO2 ​ + 4 molecules of H2O</string>
+    <string name="EQBackBtn">TODO</string>
+    <string name="EQTitel">Combustion equations</string>
+    <string name="EQ1Titel">1 : Methane combustion equation</string>
+    <string name="EQ1Discribtion">TODO</string>
+    <string name="BackEQ1">TODO</string>
+    <string name="EQ2Todo">TODO</string>
+    <string name="_2_propane_combustion_equation">2: Propane combustion equation</string>
+    <string name="_3_combustion_of_ethanol">3 : Combustion of ethanol</string>
+    <string name="todoEq3">TODO</string>
+    <string name="todoBack">TODO</string>
+    <string name="todoEQ3">TODO</string>
+    <string name="combustion_of_ethanol">Combustion of ethanol</string>
+    <string name="reactionEQ3">Reaction :</string>
+    <string name="EQ3Info">Ethanol reacts with oxygen to yield carbon dioxide and water vapor, releasing heat and light.</string>
+    <string name="balanced_equationEq3">Balanced equation :</string>
+    <string name="c2h5oh_3o2_2co2_3h2o"><![CDATA[C2H5OH + 3O2 ​ ---> 2CO2 ​ + 3H2O]]></string>
+    <string name="sketches_representing_moleculesEQ3">Sketches representing molecules :</string>
+    <string name="meaningEq3">Meaning :</string>
+    <string name="EQ3E">1 molecule of C2H5OH + 3 molecules of O2 ---> 2 molecules of CO2 + 3 molecules of H2O </string>
+    <string name="chemical_compounds">Chemical Compounds</string>
+    <string name="compound_1">Compound 1</string>
+    <string name="compound_11">Compound 1</string>
+    <string name="chemical_compoundst">Chemical compounds</string>
+    <string name="compound_2">Compound 2</string>
+    <string name="compounds_3">Compounds 3</string>
+    <string name="todo">TODO</string>
+    <string name="na4_fe_cn_6">Na4 Fe(CN)6</string>
+    <string name="sodium_hexacyanoferrate">Sodium hexacyanoferrate</string>
+    <string name="next">Next</string>
+    <string name="show_answar">Show the Answer</string>
+    <string name="todoco2">TODO</string>
+    <string name="ch3_cook">CH3 COOK</string>
+    <string name="potassium_acetate">Potassium acetate</string>
+    <string name="nextcom2">Next</string>
+    <string name="show_the_answer">Show the answer</string>
+    <string name="todocomp1">TODO</string>
+    <string name="back">Back</string>
+    <string name="backComp3">Back</string>
+    <string name="todoComp3">TODO</string>
+    <string name="todoco3">TODO</string>
+    <string name="show_the_anser">Show the anser</string>
+    <string name="c6h5oh">C6H5OH</string>
+    <string name="phenol">Phenol</string>
+    <string name="backnn">Back</string>
+    <string-array name="Choose">
+
+
+        <item>Chemical Equations</item>
+        <item>Periodic Table of the Elements</item>
+        <item>Chemical compounds</item>
+
+    </string-array>
+
+    <string-array name="elements">
+        <item> Hydrogen: H: 1 </item>
+        <item> Helium: He: 2 </item>
+        <item> Lithium: Li: 3 </item>
+        <item> Beryllium: Be: 4 </item>
+        <item> Boron: B: 5 </item>
+        <item> Carbon: C: 6 </item>
+        <item> Nitrogen: N: 7 </item>
+        <item> Oxygen: O: 8 </item>
+        <item> Fluorine: F: 9 </item>
+        <item> Neon: Ne: 10 </item>
+        <item> Sodium: Na: 11 </item>
+        <item> Magnesium: Mg: 12 </item>
+        <item> Aluminum: Al: 13 </item>
+        <item> Silicon: Si: 14 </item>
+        <item> Phosphorus: P: 15 </item>
+        <item> Sulfur: S: 16 </item>
+        <item> Chlorine: Cl: 17 </item>
+        <item> Argon: Ar: 18 </item>
+        <item> Potassium: K: 19 </item>
+        <item> Calcium: Ca: 20 </item>
+        <item> Scandium: Sc: 21 </item>
+        <item> Titanium: Ti: 22 </item>
+        <item> Vanadium: V: 23 </item>
+        <item> Chromium: Cr: 24 </item>
+        <item> Manganese: Mn: 25 </item>
+        <item> Iron: Fe: 26 </item>
+        <item> Cobalt: Co: 27 </item>
+        <item> Nickel: Ni: 28 </item>
+        <item> Copper: Cu: 29 </item>
+        <item> Zinc: Zn: 30 </item>
+        <item> Gallium: Ga: 31 </item>
+        <item> Germanium: Ge: 32 </item>
+        <item> Arsenic: As: 33 </item>
+        <item> Selenium: Se: 34 </item>
+        <item> Bromine: Br: 35 </item>
+        <item> Krypton: Kr: 36 </item>
+        <item> Rubidium: Rb: 37 </item>
+        <item> Strontium: Sr: 38 </item>
+        <item> Yttrium: Y: 39 </item>
+        <item> Zirconium: Zr: 40 </item>
+        <item> Niobium: Nb: 41 </item>
+        <item> Molybdenum: Mo: 42 </item>
+        <item> Technetium: Tc: 43 </item>
+        <item> Ruthenium: Ru: 44 </item>
+        <item> Rhodium: Rh: 45 </item>
+        <item> Palladium: Pd: 46 </item>
+        <item> Silver: Ag: 47 </item>
+        <item> Cadmium: Cd: 48 </item>
+        <item> Indium: In: 49 </item>
+        <item> Tin: Sn: 50 </item>
+        <item> Antimony: Sb: 51 </item>
+        <item> Tellurium: Te: 52 </item>
+        <item> Iodine: I: 53 </item>
+        <item> Xenon: Xe: 54 </item>
+        <item> Cesium: Cs: 55 </item>
+        <item> Barium: Ba: 56 </item>
+        <item> Lanthanum: La: 57 </item>
+        <item> Cerium: Ce: 58 </item>
+        <item> Praseodymium: Pr: 59 </item>
+        <item> Neodymium: Nd: 60 </item>
+        <item> Promethium: Pm: 61 </item>
+        <item> Samarium: Sm: 62 </item>
+        <item> Europium: Eu: 63 </item>
+        <item> Gadolinium: Gd: 64 </item>
+        <item> Terbium: Tb: 65 </item>
+        <item> Dysprosium: Dy: 66 </item>
+        <item> Holmium: Ho: 67 </item>
+        <item> Erbium: Er: 68 </item>
+        <item> Thulium: Tm: 69 </item>
+        <item> Ytterbium: Yb: 70 </item>
+        <item> Lutetium: Lu: 71 </item>
+        <item> Hafnium: Hf: 72 </item>
+        <item> Tantalum: Ta: 73 </item>
+        <item> Tungsten: W: 74 </item>
+        <item> Rhenium: Re: 75 </item>
+        <item> Osmium: Os: 76 </item>
+        <item> Iridium: Ir: 77 </item>
+        <item> Platinum: Pt: 78 </item>
+        <item> Gold: Au: 79 </item>
+        <item> Mercury: Hg: 80 </item>
+        <item> Thallium: Tl: 81 </item>
+        <item> Lead: Pb: 82 </item>
+        <item> Bismuth: Bi: 83 </item>
+        <item> Polonium: Po: 84 </item>
+        <item> Astatine: At: 85 </item>
+        <item> Radon: Rn: 86 </item>
+        <item> Francium: Fr: 87 </item>
+        <item> Radium: Ra: 88 </item>
+        <item> Actinium: Ac: 89 </item>
+        <item> Thorium: Th: 90 </item>
+        <item> Protactinium: Pa: 91 </item>
+        <item> Uranium: U: 92 </item>
+        <item> Neptunium: Np: 93 </item>
+        <item> Plutonium: Pu: 94 </item>
+        <item> Americium: Am: 95 </item>
+        <item> Curium: Cm: 96 </item>
+        <item> Berkelium: Bk: 97 </item>
+        <item> Californium: Cf: 98 </item>
+        <item> Einsteinium: Es: 99 </item>
+        <item> Fermium: Fm: 100 </item>
+        <item> Mendelevium: Md: 101 </item>
+        <item> Nobelium: No: 102 </item>
+        <item> Lawrencium: Lr: 103 </item>
+        <item> Rutherfordium: Rf: 104 </item>
+        <item> Dubnium: Db: 105 </item>
+        <item> Seaborgium: Sg: 106 </item>
+        <item> Bohrium: Bh: 107 </item>
+        <item> Hassium: Hs: 108 </item>
+        <item> Meitnerium: Mt: 109 </item>
+        <item> Darmstadtium: Ds: 110 </item>
+        <item> Roentgenium: Rg: 111 </item>
+        <item> Copernicium: Cn: 112 </item>
+        <item> Nihonium: Nh: 113 </item>
+        <item> Flerovium: Fl: 114 </item>
+        <item> Moscovium: Mc: 115 </item>
+        <item> Livermorium: Lv: 116 </item>
+        <item> Tennessine: Ts: 117 </item>
+        <item> Oganesson: Og: 118 </item>
+
+    </string-array>
+
+    <string-array name="Equation">
+        <item>Equation for the combustion of methane gas</item>
+        <item>Equation for the reaction of hydrochloric acid with sodium</item>
+
+    </string-array>
+</resources>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/EQ1Scroll"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#82B9E4"
+    android:orientation="vertical"
+    tools:context=".MainActivity2">
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="20dp"
+        android:text="@string/tabletext"
+        android:textColor="#0E0E0E"
+        android:textSize="24sp"
+        android:textStyle="bold" />
+
+    <ImageView
+        android:id="@+id/imageView4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:contentDescription="@string/tableimage"
+        app:srcCompat="@drawable/table"
+        tools:ignore="ImageContrastCheck" />
+
+    <ListView
+        android:id="@+id/elementlist"
+        android:layout_width="288dp"
+        android:layout_height="233dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="20dp"
+        android:entries="@array/elements"
+        android:scrollbarSize="10dp" />
+
+    <ImageButton
+        android:id="@+id/BackTable"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        app:srcCompat="@android:drawable/ic_media_rew" />
+
+</LinearLayout>

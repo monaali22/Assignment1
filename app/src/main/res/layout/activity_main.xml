@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/EQ1Scroll"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#F0F2F3"
+    android:orientation="vertical"
+    tools:context=".MainActivity"
+    tools:ignore="UseCompoundDrawables">
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30dp"
+        android:gravity="center"
+        android:text="@string/titel"
+        android:textColor="#091E8E"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="280dp"
+        android:layout_height="250dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="20dp"
+        android:contentDescription="@string/titelimage"
+        android:foregroundGravity="center"
+        app:srcCompat="@drawable/wellcomimage"
+        tools:layout_editor_absoluteX="18dp"
+        tools:layout_editor_absoluteY="102dp" />
+
+    <ListView
+        android:id="@+id/listview"
+        android:layout_width="232dp"
+        android:layout_height="214dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="20dp"
+        android:entries="@array/Choose" />
+
+</LinearLayout>
